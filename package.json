@@ -1,14 +1,19 @@
 {
   "name": "korsr-theme",
-  "displayName": "korsr-theme",
-  "description": "",
+  "displayName": "KORSR Theme",
+  "description": "KORSrrrr theme",
+  "publisher": "Killuox",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.94.0"
+    "vscode": "^1.93.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/killuox/korsr-theme"
+  },
   "contributes": {
     "themes": [
       {
