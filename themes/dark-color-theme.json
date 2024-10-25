@@ -23,7 +23,7 @@
 			"foreground": "#f6f9ff"
 		},
 		"variable.declaration": {
-			"foreground": "#9290ee"
+			"foreground": "#5facff"
 		},
 		"variable": {
 			"foreground": "#bfc6d4"
@@ -564,7 +564,7 @@
 				"meta.tag"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 				"storage.type.cs"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -692,7 +692,7 @@
 				"meta.object-literal entity.name.function"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -738,7 +738,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -760,7 +760,7 @@
 				"variable.other.constant.object"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -791,7 +791,7 @@
 				"support.type.map.key"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -852,7 +852,7 @@
 				"meta.property-list meta.at-rule.else"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -911,7 +911,7 @@
 			"name": "CSS value",
 			"scope": "support.constant.property-value",
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -975,14 +975,14 @@
 				"meta.directive.vue entity.other.attribute-name.html"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
 			"name": "CSS ID's",
 			"scope": "source.sass keyword.control",
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -994,14 +994,14 @@
 				"meta.property-list meta.property-value"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
 			"name": "Inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -1036,7 +1036,7 @@
 			"name": "Regular Expressions - Character Class",
 			"scope": ["constant.other.character-class.regexp"],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 				"tag.decorator.js punctuation.definition.tag.js"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -1091,7 +1091,7 @@
 			"name": "JSON Key - Level 0",
 			"scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -1118,7 +1118,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -1216,7 +1216,7 @@
 			"name": "Markdown - Markup Raw Inline",
 			"scope": "text.html.markdown markup.inline.raw.markdown",
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -1256,7 +1256,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		},
 		{
@@ -1421,7 +1421,7 @@
 			"name": "ENV value",
 			"scope": "source.env",
 			"settings": {
-				"foreground": "#9290ee"
+				"foreground": "#5facff"
 			}
 		}
 	]
