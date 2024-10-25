@@ -1,0 +1,44 @@
+background=#21242c
+background-dark=#1a1d23
+background-black=#0d0f15
+background-foreground=#bfc6d4
+background-light=#e5ecff
+background-light-paragraph=#e5ecffbb
+
+primary=#ffbc92 #3c4785
+primary-light=#ffc7a5 #5d6ab3
+primary-dark=#ff7824 #001689
+primary-light-paragraph=#ff9e61c3 #5d6ab3b8
+
+accent=#ffe0af #87714d
+
+gold=#FFD700
+secondary=#5facff #88b7e8
+secondary-light=#63afff #a1bfdd
+secondary-light-paragraph=#63afff36 #a1bfddad
+secondary-dark=#1c8aff #4d92d9
+
+
+scrollbar=#e5ecff28
+
+prev
+editor.foreground=#f6f9ff
+editor.variable=#e06c75
+editor.keywords=#c678dd
+editor.numbers=#d19a66
+editor.constants=#e5c07b
+editor.functions=#61afef
+editor.string=#98c379
+editor.operators=#56b6c2
+editor.comments=#7f848e
+
+after
+editor.foreground=#e5ecffbb
+editor.variable=#e5ecff
+editor.keywords=#61afef
+editor.numbers=#ff7824
+editor.constants=#ffdba5
+editor.functions=#ffab77
+editor.string=#ffe0af
+editor.operators=#63afff
+editor.comments=#e5ecffbb
