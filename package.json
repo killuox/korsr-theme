@@ -3,7 +3,7 @@
   "displayName": "KORSR Theme",
   "description": "KORSrrrr theme",
   "publisher": "Killuox",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.93.0"
   },
