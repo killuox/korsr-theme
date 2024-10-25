@@ -100,7 +100,7 @@
     "input.placeholderForeground": "#d8deebbb",
     "textLink.foreground": "#7b91ff",
     "editor.background": "#21242c",
-    "editor.foreground": "#536ca3dc",
+    "editor.foreground": "#dce5f8dc",
     "editorLineNumber.foreground": "#d8deebbb",
     "editorCursor.foreground": "#5d6ab3",
     "editorCursor.background": "#1a1d23",
@@ -435,7 +435,7 @@
 			"name": "Storage - modifier, var, const, let",
 			"scope": ["meta.var.expr storage.type", "storage.modifier"],
 			"settings": {
-				"foreground": "#88b7e8"
+				"foreground": "#88b2e8"
 			}
 		},
 		{
@@ -448,7 +448,7 @@
 				"punctuation.section.tag.twig"
 			],
 			"settings": {
-				"foreground": "#4d60bd"
+				"foreground": "#a3ade0"
 			}
 		},
 		{
@@ -523,14 +523,14 @@
 			"name": "Keyword",
 			"scope": ["keyword", "keyword.control", "keyword.other.important"],
 			"settings": {
-				"foreground": "#6073db"
+				"foreground": "#a3aff3"
 			}
 		},
 		{
 			"name": "Keyword SQL",
 			"scope": "keyword.other.DML",
 			"settings": {
-				"foreground": "#6073db"
+				"foreground": "#a3aff3"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#4d72d9"
+				"foreground": "#5378e0"
 			}
 		},
 		{
