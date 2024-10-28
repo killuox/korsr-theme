@@ -23,7 +23,7 @@
 			"foreground": "#f6f9ff"
 		},
 		"variable.declaration": {
-			"foreground": "#599ef8"
+			"foreground": "#73acf7"
 		},
 		"variable": {
 			"foreground": "#d8deeb"
@@ -154,7 +154,7 @@
     "editorInfo.border": "#4490BF00",
     "editorGutter.background": "#21242c",
     "editorGutter.modifiedBackground": "#0c7d9d",
-    "editorGutter.addedBackground": "#587c0c",
+    "editorGutter.addedBackground": "#197c0c",
     "editorGutter.deletedBackground": "#94151b",
     "editorGutter.foldingControlForeground": "#c5c5c5",
     "editorCodeLens.foreground": "#999999",
@@ -564,7 +564,7 @@
 				"meta.tag"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"name": " Variable Array Key",
 			"scope": "meta.array.literal variable",
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -623,7 +623,7 @@
 				"meta.block entity.name.label"
 			],
 			"settings": {
-				"foreground": "#fff2b7"
+				"foreground": "#e0d396"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 				"storage.type.cs"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -692,7 +692,7 @@
 				"meta.object-literal entity.name.function"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -738,7 +738,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -760,7 +760,7 @@
 				"variable.other.constant.object"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -791,7 +791,7 @@
 				"support.type.map.key"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -852,7 +852,7 @@
 				"meta.property-list meta.at-rule.else"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -911,7 +911,7 @@
 			"name": "CSS value",
 			"scope": "support.constant.property-value",
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -975,14 +975,14 @@
 				"meta.directive.vue entity.other.attribute-name.html"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
 			"name": "CSS ID's",
 			"scope": "source.sass keyword.control",
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -994,14 +994,14 @@
 				"meta.property-list meta.property-value"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
 			"name": "Inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -1036,7 +1036,7 @@
 			"name": "Regular Expressions - Character Class",
 			"scope": ["constant.other.character-class.regexp"],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 				"tag.decorator.js punctuation.definition.tag.js"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -1091,7 +1091,7 @@
 			"name": "JSON Key - Level 0",
 			"scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -1118,7 +1118,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -1216,7 +1216,7 @@
 			"name": "Markdown - Markup Raw Inline",
 			"scope": "text.html.markdown markup.inline.raw.markdown",
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -1256,7 +1256,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		},
 		{
@@ -1421,7 +1421,7 @@
 			"name": "ENV value",
 			"scope": "source.env",
 			"settings": {
-				"foreground": "#599ef8"
+				"foreground": "#73acf7"
 			}
 		}
 	]
