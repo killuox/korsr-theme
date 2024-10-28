@@ -929,7 +929,7 @@
 			"name": "Language methods",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#ee5387"
+				"foreground": "#fc7af1"
 			}
 		},
 		{
